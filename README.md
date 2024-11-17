@@ -8,7 +8,7 @@ Repositório destinado a documentação de boas práticas na utilização do **G
 
 ## Sumário
 
-1. [Estrutura do repositório](https://github.com/danilodiascs/Boas-Praticas-de-Git-e-GitHub?tab=readme-ov-file##estrutura-do-repositório) 
+1. [Estrutura do repositório](https://github.com/danilodiascs/Boas-Praticas-de-Git-e-GitHub?tab=readme-ov-file#estrutura-do-repositório) 
 2. [Contribuição](https://github.com/danilodiascs/Boas-Praticas-de-Git-e-GitHub?tab=readme-ov-file#contribuição)
 
 
